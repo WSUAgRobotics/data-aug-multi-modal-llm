@@ -194,3 +194,36 @@ ___
 
 ___
 ## Prepreints
+1. Xu, D. AudioSetMix: Enhancing audio-language datasets with LLM-assisted augmentations. arXiv preprint arXiv:2405.11093, 2024. [paper](#) [code](#)
+
+1. Ghosh, S., Kumar, S., Kong, Z., et al. Synthio: Augmenting small-scale audio classification datasets with synthetic data. arXiv preprint arXiv:2410.02056, 2024. [paper](#) [code](#)
+
+1. Whitehouse, C., Choudhury, M., & Aji, A. F. LLM-powered data augmentation for enhanced cross-lingual performance. arXiv preprint arXiv:2305.14288, 2023. [paper](#) [code](#)
+
+1. Ghosal, D., Majumder, N., Mehrish, A., & Poria, S. Text-to-audio generation using instruction-tuned LLM and latent diffusion model. arXiv preprint arXiv:2304.13731, 2023. [paper](#) [code](#)
+
+1. Goel, A., Kong, Z., Valle, R., & Catanzaro, B. Audio dialogues: Dialogues dataset for audio and music understanding. arXiv preprint arXiv:2404.07616, 2024. [paper](#) [code](#)
+
+1. Yang, D., Tian, J., Tan, X., et al. UniAudio: An audio foundation model toward universal audio generation. arXiv preprint arXiv:2310.00704, 2023. [paper](#) [code](#)
+
+1. Manco, I., Salamon, J., & Nieto, O. Augment, Drop & Swap: Improving diversity in LLM captions for efficient music-text representation learning. arXiv preprint arXiv:2409.11498, 2024. [paper](#) [code](#)
+
+1. Li, B., Xie, Z., Xu, X., et al. DiveSound: LLM-assisted automatic taxonomy construction for diverse audio generation. arXiv preprint arXiv:2407.13198, 2024. [paper](#) [code](#)
+
+1. Wang, Z., Tai, Y.-W., & Tang, C.-K. Audio-Agent: Leveraging LLMs for audio generation, editing, and composition. arXiv preprint arXiv:2410.03335, 2024. [paper](#) [code](#)
+
+1. Shu, F., Zhang, L., Jiang, H., & Xie, C. Audio-visual LLM for video understanding. arXiv preprint arXiv:2312.06720, 2023. [paper](#) [code](#)
+
+1. Lei, Z., Na, X., Xu, M., et al. Contextualization of ASR with LLM using phonetic retrieval-based augmentation. arXiv preprint arXiv:2409.15353, 2024. [paper](#) [code](#)
+
+1. Huang, J., Ren, Y., Huang, R., et al. Make-an-audio 2: Temporal-enhanced text-to-audio generation. arXiv preprint arXiv:2305.18474, 2023. [paper](#) [code](#)
+
+1. Ok, H., Yoo, S., & Lee, J. AudioBERT: Audio knowledge augmented language model. arXiv preprint arXiv:2409.08199, 2024. [paper](#) [code](#)
+
+1. Lu, Y., Xie, Y., Fu, R., et al. Codecfake: An initial dataset for detecting LLM-based deepfake audio. arXiv preprint arXiv:2406.08112, 2024. [paper](#) [code](#)
+
+1. Das, N., Dingliwal, S., Ronanki, S., et al. SpeechVerse: A large-scale generalizable audio language model. arXiv preprint arXiv:2405.08295, 2024. [paper](#) [code](#)
+
+1. Sridhar, A. K., Guo, Y., & Visser, E. Enhancing temporal understanding in audio question answering for large audio language models. arXiv preprint arXiv:2409.06223, 2024. [paper](#) [code](#)
+
+1. Vallaeys, T., Shukor, M., Cord, M., & Verbeek, J. Improved baselines for data-efficient perceptual augmentation of LLMs. arXiv preprint arXiv:2403.13499, 2024. [paper](#) [code](#)
