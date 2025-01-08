@@ -7,6 +7,7 @@ This repo contains all the relevant paper and information used in our study. Thi
 
 The papers used in this study are organised and the links can be found below:
 
+---
 # Text Data Augmentation
 
 ## Peer Reviewed Paper
@@ -42,6 +43,7 @@ The papers used in this study are organised and the links can be found below:
 
 1. Zhao, H., Chen, H., Ruggles, T. A., Feng, Y., Singh, D., & Yoon, H.-J. Improving text classification with large language model-based data augmentation. Electronics, 2024. [paper](#) [code](#)
 
+___
 
 ## Preprints
 
@@ -99,7 +101,7 @@ The papers used in this study are organised and the links can be found below:
 
 
 
------
+---
 # Image Data Augmentation
 
 ## Peer Reviewed Paper
