@@ -160,6 +160,37 @@ ___
 # AUDIO/VOICE DATA AUGMENTATION
 
 ## Peer Reviewed Paper
+1. Wu, S.-L., Chang, X., Wichern, G., et al. Improving audio captioning models with fine-grained audio features, text embedding supervision, and LLM mix-up augmentation. ICASSP 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024. [paper](#) [code](#)
+
+1. Xu, D. AudioSetMix: Enhancing audio-language datasets with LLM-assisted augmentations. arXiv preprint arXiv:2405.11093, 2024. [paper](#) [code](#)
+
+1. Dhingra, P., Agrawal, S., Veerappan, C. S., et al. Speech de-identification data augmentation leveraging large language model. IEEE International Conference on Asian Language Processing (IALP), 2024. [paper](#) [code](#)
+
+1. Cai, Z., Ghosh, S., Adatia, A. P., et al. AV-Deepfake1M: A large-scale LLM-driven audio-visual deepfake dataset. ACM International Conference on Multimedia, 2024. [paper](#) [code](#)
+
+1. Ma, Z., Wu, W., Zheng, Z., et al. Leveraging speech PTM, text LLM, and emotional TTS for speech emotion recognition. ICASSP 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024. [paper](#) [code](#)
+
+1. Dhingra, P., Agrawal, S., Veerappan, C. S., et al. Speech de-identification data augmentation leveraging large language model. ICAICTA 2024 11th International Conference on Advanced Informatics: Concept, Theory and Application, 2024. [paper](#) [code](#)
+
+1. Heakl, A., Zaghloul, Y., Ali, M., et al. ArzEn-LLM: Code-switched Egyptian Arabic-English translation and speech recognition using LLMs. Procedia Computer Science, 2024. [paper](#) [code](#)
+
+1. Hashmi, E., Yayilgan, S. Y., Yamin, M. M., et al. Self-supervised hate speech detection in Norwegian texts with lexical and semantic augmentations. Expert Systems with Applications, 2024. [paper](#) [code](#)
+
+1. Xu, F., Zhou, T., Nguyen, T., et al. Integrating augmented reality and LLM for enhanced cognitive support in critical audio communications. International Journal of Human-Computer Studies, 2024. [paper](#) [code](#)
+
+1. Cook, A., & Karakuş, O. LLM-Commentator: Novel fine-tuning strategies of large language models for automatic commentary generation using football event data. Knowledge-Based Systems, 2024. [paper](#) [code](#)
+
+1. Gkournelos, C., Konstantinou, C., & Makris, S. An LLM-based approach for enabling seamless human-robot collaboration in assembly. CIRP Annals, 2024. [paper](#) [code](#)
+
+1. Alier, M., Pereira, J., García-Peñalvo, F. J., et al. LAMB: An open-source software framework to create AI assistants deployed and integrated into LMS. Computer Standards & Interfaces, 2025. [paper](#) [code](#)
+
+1. Senthilselvi, A., Prawin, R., et al. Abstractive summarization of YouTube videos using Lamini-Flan-T5 LLM. ICAIT 2024 Second International Conference on Advances in Information Technology, 2024. [paper](#) [code](#)
+
+1. Wang, M., Shafran, I., Soltau, H., et al. Retrieval augmented end-to-end spoken dialog models. ICASSP 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024. [paper](#) [code](#)
+
+1. Qiu, P., Wu, C., Zhang, X., et al. Towards building multilingual language model for medicine. Nature Communications, 2024. [paper](#) [code](#)
+
+1. Hasebe, K., Fujimura, S., Kojima, T., et al. The effect of noise on deep learning for classification of pathological voice. The Laryngoscope, 2024. [paper](#) [code](#)
 
 ___
 ## Prepreints
