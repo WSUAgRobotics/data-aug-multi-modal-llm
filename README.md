@@ -105,12 +105,61 @@ ___
 # Image Data Augmentation
 
 ## Peer Reviewed Paper
+1. Sapkota, R., Meng, Z., & Karkee, M. Synthetic meets authentic: Leveraging LLM generated datasets for YOLO11 and YOLOv10-based apple detection through machine vision sensors. Smart Agricultural Technology, 2024. [paper](#) [code](#)
 
+1. Yuan, J., Tang, R., Jiang, X., & Hu, X. Large language models for healthcare data augmentation: An example on patient-trial matching. AMIA Annual Symposium Proceedings, 2023. [paper](#) [code](#)
+
+1. Li, H., Chen, B., Chen, J., et al. ITIMCA: Image-text information and cross-attention for multi-modal cassava leaf disease classification based on a novel multi-modal dataset in natural environments. Crop Protection, 2024. [paper](#) [code](#)
+
+1. Liu, Y., Zhu, Y., Gu, Z., et al. Enhanced dual contrast representation learning with cell separation and merging for breast cancer diagnosis. Computer Vision and Image Understanding, 2024. [paper](#) [code](#)
+
+1. Kirilenko, D., Andreychuk, A., Panov, A. I., & Yakovlev, K. Generative models for grid-based and image-based pathfinding. Artificial Intelligence, 2024. [paper](#) [code](#)
+
+1. Jindal, N., Kumaresan, P. K., Ponnusamy, R., et al. MISTRA: Misogyny detection through text–image fusion and representation analysis. Natural Language Processing Journal, 2024. [paper](#) [code](#)
+
+1. Li, J., Guan, Z., Wang, J., et al. Integrated image-based deep learning and language models for primary diabetes care. Nature Medicine, 2024. [paper](#) [code](#)
+
+1. Liu, F., Zhu, T., Wu, X., et al. A medical multimodal large language model for future pandemics. NPJ Digital Medicine, 2023. [paper](#) [code](#)
+
+1. Cortacero, K., McKenzie, B., Müller, S., et al. Evolutionary design of explainable algorithms for biomedical image segmentation. Nature Communications, 2023. [paper](#) [code](#)
+
+1. Raminedi, S., Shridevi, S., & Won, D. Multi-modal transformer architecture for medical image analysis and automated report generation. Scientific Reports, 2024. [paper](#) [code](#)
+
+1. Wang, Y., Shi, X., & Zhao, X. MLLM4Rec: Multimodal information enhancing LLM for sequential recommendation. Journal of Intelligent Information Systems, 2024. [paper](#) [code](#)
+
+1. Bet, M., Mălan, A., Aldinucci, M., et al. DALLMi: Domain adaption for LLM-based multi-label classifier. Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2024. [paper](#) [code](#)
+
+1. Sheik, R., Sundara, K. P., & Nirmala, S. J. Neural data augmentation for legal overruling task: Small deep learning models vs. large language models. Neural Processing Letters, 2024. [paper](#) [code](#)
+
+___
 ## Prepreints
 
+1. Wu, W., Qiu, X., Song, S., et al. Image augmentation agent for weakly supervised semantic segmentation. arXiv preprint arXiv:2412.20439, 2024. [paper](#) [code](#)
 
+1. Qian, R., Yin, X., & Dou, D. Reasoning to attend: Try to understand how ¡SEG¿ token works. arXiv preprint arXiv:2412.17741, 2024. [paper](#) [code](#)
+
+1. Yin, S., Fu, C., Zhao, S., et al. T2Vid: Translating long text into multi-image is the catalyst for video-LLMs. arXiv preprint arXiv:2411.19951, 2024. [paper](#) [code](#)
+
+1. Song, S., Subramanyam, A., Madejski, I., & Grossman, R. L. Lab-RAG: Label boosted retrieval augmented generation for radiology report generation. arXiv preprint arXiv:2411.16523, 2024. [paper](#) [code](#)
+
+1. Lingenberg, T., Reuter, M., Sudhakaran, G., et al. DIAGen: Diverse image augmentation with generative models. arXiv preprint arXiv:2408.14584, 2024. [paper](#) [code](#)
+
+1. Li, J., Zhang, F., Zhu, J., et al. ForgeryGPT: Multimodal large language model for explainable image forgery detection and localization. arXiv preprint arXiv:2410.10238, 2024. [paper](#) [code](#)
+
+1. Sultan, O., Khasin, A., Shiran, G., et al. Visual editing with LLM-based tool chaining: An efficient distillation approach for real-time applications. arXiv preprint arXiv:2410.02952, 2024. [paper](#) [code](#)
+
+1. Jin, J., Wang, X., Zhu, Q., et al. Pedestrian attribute recognition: A new benchmark dataset and a large language model augmented framework. arXiv preprint arXiv:2408.09720, 2024. [paper](#) [code](#)
+
+1. Hsieh, C., Moreira, C., Nobre, I. B., et al. DALL-M: Context-aware clinical data augmentation with LLMs. arXiv preprint arXiv:2407.08227, 2024. [paper](#) [code](#)
+
+1. Liu, J., Huang, X., Zheng, J., et al. MM-Instruct: Generated visual instructions for large multimodal model alignment. arXiv preprint arXiv:2406.19736, 2024. [paper](#) [code](#)
+
+
+
+---
 # AUDIO/VOICE DATA AUGMENTATION
 
 ## Peer Reviewed Paper
 
+___
 ## Prepreints
