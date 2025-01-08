@@ -12,9 +12,9 @@ The papers used in this study are organised and the links can be found below:
 ## Peer Reviewed Paper
 
 
-1. Ahmed, T., Pai, K. S., Devanbu, P., & Barr, E. Automatic semantic augmentation of language model prompts (for code summarization). Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, 2024. [paper](https://arxiv.org/pdf/2304.06815) [code](#) - NOCODE
+1. Ahmed, T., Pai, K. S., Devanbu, P., & Barr, E. Automatic semantic augmentation of language model prompts (for code summarization). Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, 2024. [paper](https://dl.acm.org/doi/10.1145/3597503.3639183) [code](#) - NOCODE
 
-1. Cai, X., Xiao, M., Ning, Z., & Zhou, Y. Resolving the imbalance issue in hierarchical disciplinary topic inference via LLM-based data augmentation. 2023 IEEE International Conference on Data Mining Workshops (ICDMW), 2023. [paper](#) [code](#)
+1. Cai, X., Xiao, M., Ning, Z., & Zhou, Y. Resolving the imbalance issue in hierarchical disciplinary topic inference via LLM-based data augmentation. 2023 IEEE International Conference on Data Mining Workshops (ICDMW), 2023. [paper](https://ieeexplore.ieee.org/document/10415709) [code](#) - NOCODE
 
 1. Cloutier, N. A., & Japkowicz, N. Fine-tuned generative LLM oversampling can improve performance over traditional techniques on multiclass imbalanced text classification. 2023 IEEE International Conference on Big Data (BigData), 2023. [paper](#) [code](#)
 
