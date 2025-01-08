@@ -227,3 +227,9 @@ ___
 1. Sridhar, A. K., Guo, Y., & Visser, E. Enhancing temporal understanding in audio question answering for large audio language models. arXiv preprint arXiv:2409.06223, 2024. [paper](#) [code](#)
 
 1. Vallaeys, T., Shukor, M., Cord, M., & Verbeek, J. Improved baselines for data-efficient perceptual augmentation of LLMs. arXiv preprint arXiv:2403.13499, 2024. [paper](#) [code](#)
+
+---
+
+# Citation
+If you found our work useful fo your research or work, please consider citing it:
+> **citation-to-come**
