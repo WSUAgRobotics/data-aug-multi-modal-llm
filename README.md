@@ -7,4 +7,21 @@ This repo contains all the relevant paper and information used in our study. Thi
 
 The papers used in this study are organised and the links can be found below:
 
+# Text Data Augmentation
 
+## Peer Reviewed Paper
+
+## Preprints
+
+# Image Data Augmentation
+
+## Peer Reviewed Paper
+
+## Prepreints
+
+
+# AUDIO/VOICE DATA AUGMENTATION
+
+## Peer Reviewed Paper
+
+## Prepreints
