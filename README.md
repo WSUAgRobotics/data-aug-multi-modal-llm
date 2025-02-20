@@ -232,4 +232,4 @@ ___
 
 # Citation
 If you found our work useful fo your research or work, please consider citing it:
-> **citation-to-come**
+> Sapkota, R., Raza, S., Shoman, M., Paudel, A. and Karkee, M., 2025. Image, Text, and Speech Data Augmentation using Multimodal LLMs for Deep Learning: A Survey. arXiv preprint arXiv:2501.18648.
